@@ -1,0 +1,54 @@
+{
+  "countries": {
+    "1": {
+      "name": "France",
+      "capital": "Paris",
+      "provinces": ["Paris", "Burgundy", "Gascony", "Belgium"]
+    },
+    "2": {
+      "name": "Germany",
+      "capital": "Berlin",
+      "provinces": ["Berlin", "Braunschweig", "Ruhr"]
+    },
+    "3": {
+      "name": "Britain",
+      "capital": "British1",
+      "provinces": ["British1", "British2", "BritishIsland"]
+    },
+    "4": {
+      "name": "Russia",
+      "capital": "Moscow",
+      "provinces": ["Moscow", "Sevastopol", "Saint-Petersburg", "Arkhangelsk", "Livonia", "Ukraine"]
+    },
+    "5": {
+      "name": "Sweden",
+      "capital": "Sweden",
+      "provinces": ["Sweden", "Finland", "Norway"]
+    },
+    "6": {
+      "name": "Ottoman",
+      "capital": "Stambul",
+      "provinces": ["Stambul", "Smyma", "Armenia", "Crimea"]
+    },
+    "7": {
+      "name": "Italy",
+      "capital": "Rome",
+      "provinces": ["Rome", "Venice", "Albania"]
+    },
+    "8": {
+      "name": "Austria-Hungary",
+      "capital": "Budapest",
+      "provinces": ["Budapest", "Warsaw", "Rumania"]
+    },
+    "9": {
+      "name": "Spain",
+      "capital": "CentralSpain",
+      "provinces": ["SouthSpain", "CentralSpain", "NorthSpain"]
+    }
+  },
+  "sea_provinces": [    
+    "IceSea", "BritishSea", "LaManche", "NorthSea", "NovegiaSea",
+    "BarentsSea", "BalticSea", "BothniaSea", "BlackSea", "GermanySea",
+    "GuffLyan", "TurrhenianSea", "AdriaticSea", "AegeanSea"
+  ]
+}
